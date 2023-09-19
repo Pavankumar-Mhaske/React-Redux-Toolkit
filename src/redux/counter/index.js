@@ -8,3 +8,5 @@ export const counterSlice = createSlice({
     decrement: (state) => state - 1,
   },
 });
+
+export const { increment, decrement } = counterSlice.actions;
