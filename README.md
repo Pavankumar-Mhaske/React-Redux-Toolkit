@@ -42,4 +42,8 @@ Contributions are always welcome!
 
 ![Screenshot (759)](https://github.com/Pavankumar-Mhaske/React-Redux-Toolkit/assets/104865937/691bdb55-230d-49b6-9b58-7cae6cb0dbb9)
 
+<p align="center">
+  <b> 🌴🎄🌳🌲 ⭐💖 - Decrementing states  - 💖⭐ 🌲🌳🎄🌴 </b>
+</p>
+
 ![Screenshot (760)](https://github.com/Pavankumar-Mhaske/React-Redux-Toolkit/assets/104865937/09a5a210-1989-45ad-9c98-3c65ace8499a)
