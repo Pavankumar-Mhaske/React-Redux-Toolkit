@@ -30,6 +30,10 @@ Contributions are always welcome!
 
 ## 📸 Screenshots 📷🎥
 
+<p align="center">
+  <b> 🌴🎄🌳🌲 ⭐💖 - Managing states of two Components - 💖⭐ 🌲🌳🎄🌴 </b>
+</p>
+
 ![Screenshot (758)](https://github.com/Pavankumar-Mhaske/React-Redux-Toolkit/assets/104865937/8d061748-31e2-44c2-824d-f97562bf2a4a)
 
 ![Screenshot (759)](https://github.com/Pavankumar-Mhaske/React-Redux-Toolkit/assets/104865937/691bdb55-230d-49b6-9b58-7cae6cb0dbb9)
