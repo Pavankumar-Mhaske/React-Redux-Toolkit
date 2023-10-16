@@ -47,3 +47,10 @@ Contributions are always welcome!
 </p>
 
 ![Screenshot (760)](https://github.com/Pavankumar-Mhaske/React-Redux-Toolkit/assets/104865937/09a5a210-1989-45ad-9c98-3c65ace8499a)
+
+
+## Used By
+
+This project is used by the following companies:
+
+- SmaDuleX
